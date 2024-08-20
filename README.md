@@ -2,7 +2,7 @@
 
 ## Repository for our CS 180 Project 5 group Shoe Marketplace!
 
-## _Developed by:_ Anish Gorentala, John Zeng, Kian Kishimoto, Siddh Patani, and Aryan Shahu
+## _Developed by:_ Siddh Patani, Anish Gorentala, John Zeng, Kian Kishimoto, and Aryan Shahu
 
 ## HOW TO RUN
 
