@@ -1,0 +1,2 @@
+email|pwd|0.0
+john@gmail.com|password|140.0

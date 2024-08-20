@@ -1,0 +1,4 @@
+customer1|product1ToString
+customer2|product1ToString
+customer3|product1ToString
+customer1|product2ToString
